@@ -1,0 +1,6 @@
+{
+  "name": "SalusCare Smart Access & Resilience",
+  "description": "Prototipo interattivo ad alta fedeltà della piattaforma di recupero e ottimizzazione degli slot sanitari per SalusCare Group S.p.A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
